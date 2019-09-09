@@ -303,8 +303,7 @@ button,
 input,
 select,
 textarea {
-	color: #1a1a1a;
-	font-family: Merriweather, Georgia, serif;
+	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 16px;
 	font-size: 1rem;
 	line-height: 1.75;
@@ -463,7 +462,7 @@ html {
 }
 
 body {
-	background: #1a1a1a;
+	background: #debdd4;
 	/* Fallback for when there is no custom background color defined. */
 }
 
